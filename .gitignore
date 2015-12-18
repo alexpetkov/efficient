@@ -15,6 +15,7 @@ Thumbs.db
 
 # dev
 .htaccess
+.ftpauth
 find.php
 *.sql
 .sass-cache
